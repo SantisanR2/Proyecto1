@@ -1,4 +1,2 @@
 # Proyecto1
-
-Santiago Andrés Ramírez Ramírez
-Universidad de los Andes - 201910908
+Universidad de los Andes - Santiago Andrés Ramírez Ramírez- 201910908
